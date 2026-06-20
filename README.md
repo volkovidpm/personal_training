@@ -18,6 +18,8 @@
 
 Все данные хранятся локально в браузере (localStorage), без сервера.
 
+Идеи и цели на будущее — в [ROADMAP.md](ROADMAP.md).
+
 ## Стек
 
 React + TypeScript + Vite + Zustand. Тесты — Vitest.
